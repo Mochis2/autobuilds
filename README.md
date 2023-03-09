@@ -1,6 +1,6 @@
 # Linux Tweet App
 
-![Build-Push-And-Test Workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/build-push-and-deploy.yml/badge.svg)
+![Build-Push-And-Test Workflow](https://github.com/mochis2/autobuilds/actions/workflows/build-push-and-deploy.yml/badge.svg)
 
 This is very simple NGINX website that allows a user to send a tweet. 
 
